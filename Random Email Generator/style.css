@@ -1,0 +1,27 @@
+
+html,body{
+    background: #000;
+    margin: 0;
+    padding: 0;
+
+}
+.heading{
+    color: rgb(7, 129, 235);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-top: 300px;
+}
+.answer{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 55px;
+    width: 100%;
+    border-radius: 500px;
+}
+
+#answer{
+    color: aliceblue;
+    font-size: 30px;
+}
